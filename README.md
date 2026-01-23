@@ -18,8 +18,3 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
----
-
-**Current project:** SpinnCheck - AI bicycle diagnostics (Python + React Native)
-
-**Contact:** dot.systems@proton.me
