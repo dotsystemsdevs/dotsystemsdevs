@@ -1,32 +1,19 @@
 ## Diana
 
-Full-stack developer specializing in AI-powered applications and mobile development.
+| What I build with | What I'm learning | What I want to learn |
+|------------------|-------------------|---------------------|
+| Python | Kubernetes | Swift |
+| TypeScript | GraphQL | Rust |
+| JavaScript | PostgreSQL | Go |
+| FastAPI | | |
+| React Native | | |
+| Expo | | |
+| TensorFlow | | |
+| Docker | | |
+| Redis | | |
 
 ---
 
-### Currently working with
+**Current project:** SpinnCheck - AI bicycle diagnostics (Python + React Native)
 
-Python • TypeScript • JavaScript • FastAPI • React Native • Expo • TensorFlow • Docker • Redis
-
-### Learning
-
-Kubernetes • GraphQL • PostgreSQL
-
-### Planning to explore
-
-Swift • Rust • Go
-
----
-
-### Projects
-
-**SpinnCheck** - AI-powered bicycle sound diagnosis system  
-Backend: Python + FastAPI + TensorFlow  
-Mobile: React Native + Expo + TypeScript  
-87% accuracy CNN model
-
----
-
-### Contact
-
-dot.systems@proton.me
+**Contact:** dot.systems@proton.me
