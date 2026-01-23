@@ -1,4 +1,4 @@
-## hey
+## Hi!
 
 | What I build with | What I'm learning | What I want to learn |
 |------------------|-------------------|---------------------|
