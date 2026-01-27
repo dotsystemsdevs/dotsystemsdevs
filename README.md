@@ -1,6 +1,6 @@
 ## Hey there
 
-Building mobile apps and developer tools.
+Building developer tools.
 
 ### Tech Stack
 
@@ -8,15 +8,12 @@ Building mobile apps and developer tools.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat&logo=expo&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-### Featured Projects
+### Open Source
 
 - [**app-icon-resizer**](https://github.com/dotsystemsdevs/app-icon-resizer) - CLI to generate Android & iOS app icons from a single PNG
-- [**spincheck-mobile**](https://github.com/dotsystemsdevs/spincheck-mobile) - AI-powered bike diagnostics app
 
 ### Learning
 
