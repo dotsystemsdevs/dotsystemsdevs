@@ -10,7 +10,14 @@ Building developer tools.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+### CAD & 3D Printing
+
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=flat&logo=dassaultsystemes&logoColor=white)
 ![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6600?style=flat&logo=autodesk&logoColor=white)
+![Cura](https://img.shields.io/badge/Cura-0069B4?style=flat&logo=ultimaker&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
 
 ### Open Source
 
