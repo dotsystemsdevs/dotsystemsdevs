@@ -10,10 +10,12 @@ Building developer tools.
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=flat&logo=freecad&logoColor=white)
 
 ### Open Source
 
 - [**app-icon-resizer**](https://github.com/dotsystemsdevs/app-icon-resizer) - CLI to generate Android & iOS app icons from a single PNG
+- [**3d-printable-cycling-accessories**](https://github.com/dotsystemsdevs/3d-printable-cycling-accessories) - Free STL files for 3D printable cycling accessories — wheel blocks, tablet stands, AirTag holders
 
 ### Learning
 
