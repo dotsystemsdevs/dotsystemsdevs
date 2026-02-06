@@ -1,14 +1,12 @@
 ## Hello World!
 
-Shipping indie apps with $0 budget. 2 apps, 3 weeks, real users.
-
 ### Apps
 
-| App | What | Link |
-|-----|------|------|
-| **Slothy** | Minimal task app — today, tomorrow, procrastination tracking | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
-| **Mulligan** | Track lost/found golf balls, log rounds, share highlight cards | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
-| **Lotty** | Privacy-first profit & loss tracker for lottery | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
+| App | What | Users | Link |
+|-----|------|-------|------|
+| **Slothy** | Minimal task app — today, tomorrow, procrastination tracking | 53 testers | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
+| **Mulligan** | Track lost/found golf balls, log rounds, share highlight cards | 140 | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
+| **Lotty** | Privacy-first profit & loss tracker for lottery | 105 | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
 
 ### Open Source
 
