@@ -7,7 +7,6 @@ Shipping indie apps with $0 budget. 2 apps, 3 weeks, real users.
 | App | What | Link |
 |-----|------|------|
 | **Slothy** | Procrastinator's todo — no guilt, offline, no login | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
-| **Mulligan** | Golf ball tracker + round logging | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
 | **Lotty** | Lottery number tracker | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
 
 ### Open Source
