@@ -12,7 +12,7 @@ Shipping indie apps with $0 budget. 2 apps, 3 weeks, real users.
 
 ### Open Source
 
-- [**Vibecoders Toolkit**](https://github.com/dotsystemsdevs/vibecoders-toolkit) — Ship apps from zero: MVP, vibecoding, testing, launch, marketing, tracking
+- [**Vibecoders Toolkit**](https://github.com/dotsystemsdevs/vibecoders-toolkit) — From idea to Play Store, the full playbook
 - [**3D Cycling Accessories**](https://github.com/dotsystemsdevs/3d-printable-cycling-accessories) — Free STL files for indoor training gear
 
 ### Tech
