@@ -2,8 +2,8 @@
 
 ### Apps
 
-| App | What | Users | Link |
-|-----|------|-------|------|
+| App | What | Link |
+|-----|------|------|
 | **Slothy** | Minimal task app — today, tomorrow, procrastination tracking | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
 | **Mulligan** | Track lost/found golf balls, log rounds, share highlight cards | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
 | **Lotty** | Privacy-first profit & loss tracker for lottery | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
