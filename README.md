@@ -1,4 +1,4 @@
-## 👋 Indie maker · 5 products · 100+ users
+## 👋 Indie maker
 
 Building useful tools. Shipping fast. Learning in public.
 
