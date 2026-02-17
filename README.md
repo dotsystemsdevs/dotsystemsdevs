@@ -1,3 +1,4 @@
 ## 👋 Indie maker
 
-Building useful tools. Shipping fast. Learning in public.
+Building useful tools. Shipping fast. 
+Learning in public.
