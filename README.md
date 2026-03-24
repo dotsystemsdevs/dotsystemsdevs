@@ -19,5 +19,3 @@ Building in public on [@dotsystemsdevs](https://instagram.com/dotsystemsdevs) ·
 ## reach out
 
 [![Instagram](https://img.shields.io/badge/@dotsystemsdevs-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/dotsystemsdevs)
-[![Instagram](https://img.shields.io/badge/@app__mulligan-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/app_mulligan)
-[![Instagram](https://img.shields.io/badge/@slothy__app-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/slothy_app)
