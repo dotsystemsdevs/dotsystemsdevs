@@ -10,7 +10,7 @@ Solo dev. I build small apps, ship them before I change my mind, and maintain wa
 
 **Other things** — [Build2Race](https://build2race.com) for race teams, and [commitmentissues.dev](https://commitmentissues.dev) which issues official death certificates for abandoned GitHub repos. You probably have a repo on there.
 
-Building in public on [@dotsystemsdevs](https://instagram.com/dotsystemsdevs) · [@app_mulligan](https://instagram.com/app_mulligan) · [@slothy_app](https://instagram.com/slothy_app)
+Everything here was built solo — no team, no budget, no prior experience shipping apps. Picked up React Native in late 2025, shipped the first app in January 2026, and haven't stopped since. Still figuring things out, just doing it in public.
 
 ## stack
 
