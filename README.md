@@ -1,20 +1,18 @@
 # hello world.
 
-Solo dev. I build small apps, ship them before I change my mind, and maintain way too many Instagram accounts. 0 to 4 apps since January 2026.
+Solo dev. 0 to 4 apps since January 2026, still going.
 
-**Golf apps** — because apparently that's my niche now.
-[Mulligan](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) tracks lost balls and rounds on Android.
-[Bogey Blamer](https://apps.apple.com/app/id6759191239) generates 150+ excuses for your worst games on iOS.
+**Golf** — [Mulligan](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) tracks lost balls and rounds on Android. [Bogey Blamer](https://apps.apple.com/app/id6759191239) generates 150+ excuses for your worst games on iOS. Yes, two golf apps.
 
-**Productivity** — [Slothy](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) is a to-do app where moving tasks to tomorrow is a feature, not a bug. [Android](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) and [iOS](https://apps.apple.com/app/id6760565326).
+**Productivity** — [Slothy](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) is a to-do app where moving tasks to tomorrow is a feature, not a bug. [Android](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) + [iOS](https://apps.apple.com/app/id6760565326).
 
-**Other things** — [Build2Race](https://build2race.com) for race teams, and [commitmentissues.dev](https://commitmentissues.dev) which issues official death certificates for abandoned GitHub repos. You probably have a repo on there.
+**Other stuff** — [Build2Race](https://build2race.com) for race teams. [commitmentissues.dev](https://commitmentissues.dev) issues official death certificates for abandoned GitHub repos. You probably have one on there.
 
-Everything here was built solo — no team, no budget, no prior experience shipping apps. Picked up React Native in late 2025, shipped the first app in January 2026, and haven't stopped since. Still figuring things out, just doing it in public.
+Picked up React Native in late 2025. No prior mobile experience, no team, no budget. First app shipped January 2026. Everything built solo. Still figuring things out, just doing it in public.
 
 ## stack
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,supabase,git,vscode&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,nodejs,supabase,git,vscode&theme=dark)](https://skillicons.dev)
 
 ## reach out
 
