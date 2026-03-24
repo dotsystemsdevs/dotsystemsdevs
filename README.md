@@ -1,37 +1,20 @@
-## indie maker 👋
+# hello world.
 
-building apps and shipping fast.
+Solo dev. I build small apps, ship them before I change my mind, and maintain way too many Instagram accounts.
 
-### apps
+---
 
-| app | what it does | platform | users | version | status |
-|-----|-------------|----------|-------|---------|--------|
-| **Mulligan** | golf ball tracker — log lost/found balls, rounds, share cards | Android | 25 active | v1.2.0 | 5.0 ★ (9) |
-| **Slothy** | minimal to-do list — today, tomorrow, done | Android | 50 active | v1.4.0 | 5.0 ★ (4) |
-| **Bogey Blamer** | golf excuse generator — 250+ excuses, voting, leaderboard | iOS | 50 TD users | v1.3.0 | 5.0 ★ (1) |
-| **Sidewise** | income & expense tracker — multi-currency, XLSX export | Android | 28 active | v2.0.0 | 5.0 ★ (8) |
-| **Build2Race** | SaaS for race team management | Web | 582 visitors/30d | — | live |
+**Golf apps** — because apparently that's my niche now.
+[Mulligan](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) tracks lost balls and rounds on Android.
+[Bogey Blamer](https://apps.apple.com/app/id6759191239) generates 150+ excuses for your worst games on iOS.
+Yes, I made two golf apps. No, I don't play that often.
 
-### download
+**Productivity** — [Slothy](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) is a to-do app where moving tasks to tomorrow is a feature, not a bug. [Android](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) and [iOS](https://apps.apple.com/app/id6760565326).
 
-| app | link |
-|-----|------|
-| Mulligan | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) |
-| Slothy | [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) |
-| Bogey Blamer | [App Store](https://apps.apple.com/us/app/bogey-blamer-golf-excuses/id6759191239) |
-| Sidewise | [Google Play](https://play.google.com/store/apps/details?id=com.diana.lotty) |
+**Other things** — [Build2Race](https://build2race.com) for race teams, and [commitmentissues.dev](https://commitmentissues.dev) which issues official death certificates for abandoned GitHub repos. You probably have a repo on there.
 
-### links
+---
 
-- 📸 [@dotsystemsdevs](https://instagram.com/dotsystemsdevs) — building in public (1,281 followers)
-- ⛳ [@app_mulligan](https://instagram.com/app_mulligan) — golf content (236 followers)
-- 🦥 [@slothy_app](https://instagram.com/slothy_app) — productivity content (94 followers)
-
-### stats
-
-- 5 products shipped
-- all apps rated 5.0 ★
-- 100+ active Android users
-- 50+ iOS users via TelemetryDeck
-- 1,600+ Instagram followers across 3 accounts
-- solo dev, zero ad spend
+I post about building in public on [@dotsystemsdevs](https://instagram.com/dotsystemsdevs).
+Golf content on [@app_mulligan](https://instagram.com/app_mulligan).
+Procrastination content on [@slothy_app](https://instagram.com/slothy_app).
