@@ -1,6 +1,6 @@
 # hello world.
 
-Solo dev. I build small apps, ship them before I change my mind, and maintain way too many Instagram accounts.
+Solo dev. I build small apps, ship them before I change my mind, and maintain way too many Instagram accounts. 0 to 4 apps since January 2026.
 
 **Golf apps** — because apparently that's my niche now.
 [Mulligan](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) tracks lost balls and rounds on Android.
