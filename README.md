@@ -25,6 +25,12 @@ I build practical products with small teams (usually just me), fast iteration, a
   Official death certificates for abandoned GitHub repos.  
   [commitmentissues.dev](https://commitmentissues.dev)
 
+## Open Source
+
+- I like building in public and sharing tools people can actually use.
+- Current focus: shipping small, useful products first, then opening up reusable parts.
+- Open-source projects and experiments will keep growing here over time.
+
 ## Stack
 
 React Native · Expo · TypeScript · Next.js · Node.js · SQLite · local-first workflows
