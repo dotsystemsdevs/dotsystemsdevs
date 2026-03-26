@@ -1,9 +1,38 @@
-# hello world.
+# Dot Systems Devs
+### Solo builder shipping mobile apps and SaaS in public
 
-Golf: [Mulligan](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan) tracks lost balls and rounds on Android. [Bogey Blamer](https://apps.apple.com/app/id6759191239) generates 150+ excuses for your worst games on iOS. Yes, two golf apps.
+I build practical products with small teams (usually just me), fast iteration, and real users.
 
-Productivity: [Slothy](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) is a to-do app where moving tasks to tomorrow is a feature, not a bug. [Android](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) + [iOS](https://apps.apple.com/app/id6760565326).
+## Projects
 
-Other stuff: [Build2Race](https://build2race.com) for race teams. [commitmentissues.dev](https://commitmentissues.dev) issues official death certificates for abandoned GitHub repos. You probably have one on there.
+- **Mulligan**  
+  Golf ball tracker for Android. Lost/found balls, round history, share cards, offline-first.  
+  [Google Play](https://play.google.com/store/apps/details?id=com.dotsystemsdevs.mulligan)
 
-Picked up React Native in late 2025. No prior mobile experience, no team, no budget. First app shipped January 2026. Everything built solo. Still figuring things out, just doing it in public.
+- **Slothy**  
+  Task app where moving work to tomorrow is a feature, not a bug. Android + iOS.  
+  [Google Play](https://play.google.com/store/apps/details?id=com.dotsystems.slothy) · [App Store](https://apps.apple.com/app/id6760565326)
+
+- **Bogey Blamer**  
+  150+ golf excuses in one tap. iOS live, Android in testing.  
+  [App Store](https://apps.apple.com/app/id6759191239)
+
+- **Build2Race**  
+  SaaS for race teams.  
+  [build2race.com](https://build2race.com)
+
+- **commitmentissues.dev**  
+  Official death certificates for abandoned GitHub repos.  
+  [commitmentissues.dev](https://commitmentissues.dev)
+
+## Stack
+
+React Native · Expo · TypeScript · Next.js · Node.js · SQLite · local-first workflows
+
+## Links
+
+[Instagram](https://www.instagram.com/dotsystemsdevs/#)
+
+---
+
+Building one useful thing at a time.
