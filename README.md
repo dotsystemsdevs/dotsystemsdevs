@@ -25,10 +25,6 @@ I build practical products, ship fast, and iterate in public.
   Death certificates for abandoned GitHub repos.  
   [commitmentissues.dev](https://commitmentissues.dev)
 
-## Open Source
-
-I build in public and open-source useful parts as they mature.
-
 ## Stack
 
 React Native · Expo · TypeScript · Next.js · Node.js · SQLite
