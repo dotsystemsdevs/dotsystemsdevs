@@ -1,17 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=120&section=header&text=dotsystemsdevs&fontSize=40&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>
 
-<div align="center">
+# dotsystemsdevs
 
-### solo builder · mobile apps & SaaS · open source
+**solo builder · mobile apps & SaaS · open source**
 
 [![GitHub followers](https://img.shields.io/github/followers/dotsystemsdevs?style=for-the-badge&color=00b4d8&labelColor=0d1117&label=followers&logo=github&logoColor=white)](https://github.com/dotsystemsdevs)
 [![Profile views](https://komarev.com/ghpvc/?username=dotsystemsdevs&style=for-the-badge&color=00b4d8&label=VIEWS)](https://github.com/dotsystemsdevs)
 
 </div>
 
-<br/>
+---
 
 ## Apps
 
@@ -60,7 +58,7 @@ SaaS for race teams
 </tr>
 </table>
 
-<br/>
+---
 
 ## Stack
 
@@ -76,7 +74,7 @@ SaaS for race teams
 
 </div>
 
-<br/>
+---
 
 ## Open Source
 
@@ -92,7 +90,7 @@ SaaS for race teams
 | [jaechang-hits/SciAgent-Skills](https://github.com/jaechang-hits/SciAgent-Skills/pull/9) | Genomics documentation |
 | [Kaviid/ExpensesTracker](https://github.com/Kaviid/ExpensesTracker/pull/4) | Input validation fix |
 
-<br/>
+---
 
 ## Stats
 
@@ -103,14 +101,10 @@ SaaS for race teams
 
 </div>
 
-<br/>
+---
 
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=e1306c)](https://www.instagram.com/dotsystemsdevs/)
 
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=80&section=footer" width="100%"/>
 </div>
