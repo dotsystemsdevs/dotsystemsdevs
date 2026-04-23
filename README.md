@@ -1,1 +1,1 @@
-[![Commitment Issues — @dotsystems's graveyard](https://commitmentissues.dev/api/badge?username=dotsystems)](https://commitmentissues.dev/user/dotsystems)
+[![Commitment Issues — @addyosmani's graveyard](https://commitmentissues.dev/api/badge?username=addyosmani)](https://commitmentissues.dev/user/addyosmani)
