@@ -5,13 +5,13 @@ Boring + alive > clever + dead.
 
 #### What I'm building
 
-| | |
-|---|---|
-| 🏌️ [excuse-caddie](https://github.com/dotsystemsdevs/excuse-caddie) | golf excuses on tap |
-| 🐺 [wolf-of-vibe-street](https://github.com/dotsystemsdevs/wolf-of-vibe-street) | paper-first AI crypto bot |
-| 🪦 [commitmentissues](https://github.com/dotsystemsdevs/commitmentissues) | death certificates for dead repos |
-| ✨ [vibe-prompt](https://github.com/dotsystemsdevs/vibe-prompt) | 39 prompts for vibe coders |
-| 🚴 [openbikeradar](https://github.com/dotsystemsdevs/openbikeradar) | DIY Garmin Varia |
+<table>
+  <tr><td>🏌️ <a href="https://github.com/dotsystemsdevs/excuse-caddie"><b>excuse-caddie</b></a></td><td>golf excuses on tap</td></tr>
+  <tr><td>🐺 <a href="https://github.com/dotsystemsdevs/wolf-of-vibe-street"><b>wolf-of-vibe-street</b></a></td><td>paper-first AI crypto bot</td></tr>
+  <tr><td>🪦 <a href="https://github.com/dotsystemsdevs/commitmentissues"><b>commitmentissues</b></a></td><td>death certificates for dead repos</td></tr>
+  <tr><td>✨ <a href="https://github.com/dotsystemsdevs/vibe-prompt"><b>vibe-prompt</b></a></td><td>39 prompts for vibe coders</td></tr>
+  <tr><td>🚴 <a href="https://github.com/dotsystemsdevs/openbikeradar"><b>openbikeradar</b></a></td><td>DIY Garmin Varia</td></tr>
+</table>
 
 ---
 
