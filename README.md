@@ -1,14 +1,19 @@
-### Hi, I'm Dot
+### Hi, I'm Dot 👋
 
-Solo dev building small apps and tools under **Dot Systems**.
+Solo dev shipping small apps and tools under **Dot Systems**.
+Boring + alive > clever + dead.
 
-**Pinned projects**
+<a href="https://buymeacoffee.com/dotdevs"><img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
-- [excuse-caddie](https://github.com/dotsystemsdevs/excuse-caddie) — single-screen golf excuse generator (Next.js + Upstash)
-- [wolf-of-vibe-street](https://github.com/dotsystemsdevs/wolf-of-vibe-street) — paper-first AI crypto trading bot, vibe-coded in one night
-- [commitmentissues](https://github.com/dotsystemsdevs/commitmentissues) — official death certificates for abandoned GitHub repos
-- [vibe-prompt](https://github.com/dotsystemsdevs/vibe-prompt) — 39 battle-tested prompts and a 9-step workflow for vibe coders
-- [openbikeradar](https://github.com/dotsystemsdevs/openbikeradar) — open source DIY alternative to the Garmin Varia
+#### What I'm building
+
+| | |
+|---|---|
+| 🏌️ [excuse-caddie](https://github.com/dotsystemsdevs/excuse-caddie) | golf excuses on tap |
+| 🐺 [wolf-of-vibe-street](https://github.com/dotsystemsdevs/wolf-of-vibe-street) | paper-first AI crypto bot |
+| 🪦 [commitmentissues](https://github.com/dotsystemsdevs/commitmentissues) | death certificates for dead repos |
+| ✨ [vibe-prompt](https://github.com/dotsystemsdevs/vibe-prompt) | 39 prompts for vibe coders |
+| 🚴 [openbikeradar](https://github.com/dotsystemsdevs/openbikeradar) | DIY Garmin Varia |
 
 ---
 
