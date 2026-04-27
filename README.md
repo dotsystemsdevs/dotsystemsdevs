@@ -3,8 +3,6 @@
 Solo dev shipping small apps and tools under **Dot Systems**.
 Boring + alive > clever + dead.
 
-<a href="https://buymeacoffee.com/dotdevs"><img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
-
 #### What I'm building
 
 | | |
@@ -20,3 +18,5 @@ Boring + alive > clever + dead.
 [![Commitment Issues — @dotsystemsdevs's graveyard](https://commitmentissues.dev/api/badge?username=dotsystemsdevs&v=3)](https://commitmentissues.dev/user/dotsystemsdevs)
 
 [made with commitmentissues.com](https://commitmentissues.dev/)
+
+<a href="https://buymeacoffee.com/dotdevs"><img src="https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
