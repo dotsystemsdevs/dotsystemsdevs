@@ -1,7 +1,6 @@
 ### Hi, I'm Dot 👋
 
 Solo dev shipping small apps and tools under **Dot Systems**.
-Boring + alive > clever + dead.
 
 #### What I'm building
 
